@@ -1,0 +1,7 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <includes_templates>
+      <template name="Kotlin File Header.kt" file-name="Author Template - Flutter Nest" reformat="true" live-template-enabled="false" />
+    </includes_templates>
+  </component>
+</application>
